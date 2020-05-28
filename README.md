@@ -55,7 +55,7 @@ elvis files are active) use:
 
 At present it is required do use a developers install of panel. Follow the instructions
 [here](https://panel.holoviz.org/developer_guide/index.html) and checkout in the branch
-static_serve. Use the panel_dev conda environment. Note that this is only required temporarily,
+``serve_static``. Use the panel_dev conda environment. Note that this is only required temporarily,
 as serving static assets will be included in the standard panel distribution at some point.
 
 * panel 0.10.0a2.post9+g643033f dev_0
